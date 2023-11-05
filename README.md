@@ -1,5 +1,6 @@
+
 # demo
 This is a Git repo
 <br>
-Author-Arya 
+Author-Arya Rane
 <br>
